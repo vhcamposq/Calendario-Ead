@@ -10,7 +10,7 @@
 article.accordion
 {
   
-  width: 76%;
+  width: 77%;
   margin: 0 auto;
   background-color: #017550;
   overflow: auto;
@@ -35,7 +35,7 @@ article.accordion section h2
   position: absolute;
   font-size: 1em;
   font-weight: bold;
-  width: 12em;
+  width: 10em;
   height: 2em;
   top: 12em;
   left: 0;
@@ -65,7 +65,7 @@ article.accordion section h2 a
 }
 article.accordion section:target
 {
-  width: 20em;
+  width: 18em;
   padding: 0 1em;
   color: #333;
   background-color: white;
